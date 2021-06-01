@@ -1,0 +1,17 @@
+{
+  "name": "vite-example",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vue": "2.6.12"
+  },
+  "devDependencies": {
+    "typescript": "4.3.2",
+    "vite": "2.3.5",
+    "vite-plugin-components": "0.10.4",
+    "vite-plugin-vue2": "1.5.2",
+    "vue-template-compiler": "2.6.12"
+  }
+}
